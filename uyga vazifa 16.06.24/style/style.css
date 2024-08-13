@@ -1,0 +1,107 @@
+div{
+    border-radius: 3px;
+}
+header p{
+    display: inline-block;
+    color: white;
+    padding: 15px;
+}
+header{
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    background-color: rgb(211, 35, 255);
+    margin: 0;
+    padding: 0;
+}
+header .web{
+    font-size: 25px;
+}
+.pictures{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    padding: 25px 0px 25px;
+}
+.design2{
+    text-align: center;
+    display: inline-block;
+    display: flex;
+   justify-content: space-around;
+   background-color: antiquewhite;
+}
+.design1{
+width: 800px;
+margin: auto;
+
+}
+.first{
+    background-color: rgba(101, 29, 255, 1);
+    color: white;
+    font-size: 25px;
+    margin: 0;
+}
+.second{
+    background-color: rgba(0, 204, 191, 1);
+    color: white;
+    font-size: 25px;
+    margin: 0;
+}
+.third{
+    background-color: rgba(160, 45, 200, 1);
+    color: white;
+    font-size: 25px;
+    margin: 0;
+}
+.section1{
+    display: flex;
+    background-color: rgba(101, 29, 255, 1);
+    margin: 25px;
+}
+.first2{
+    color: white;
+    display: flex;
+    background-color: rgba(101, 29, 255, 1);
+margin-bottom: 25px;
+}
+.first2 img{
+    padding-top: 30px;
+    height: 50px;
+    width: auto;
+
+}
+.second2{
+    display: flex;
+    height: 100px;
+    color: white;
+background-color: rgba(0, 204, 191, 1);
+}
+.second2 img{
+    height: 90px;
+    width: auto;
+}
+.second2 p{
+    padding-left: 10px;
+}
+.third3{
+    background-color: rgb(160, 45, 200);
+    display: flex;
+    color: white;
+    margin: 25px 0px 25px;
+}
+.third3 p{
+    padding-left: 10px;
+}
+footer{
+    display: flex;
+    background-color: rgb(211, 35, 255);
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+}
+footer p{
+    display: inline-block;
+    color: white;
+    padding: 15px;
+    font-size: 20px;
+}
